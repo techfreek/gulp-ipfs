@@ -18,5 +18,10 @@
   "homepage": "https://github.com/techfreek/gulp-ipfs",
   "dependencies": {
     "ipfs-api": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "mocha": "^2.2.1",
+    "should": "^5.2.0"
   }
 }
