@@ -1,0 +1,22 @@
+{
+  "name": "gulp-ipfs",
+  "version": "0.0.1",
+  "description": "A gulp plugin to add files to ipfs, then resolve paths so ipfs is used as a cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/techfreek/gulp-ipfs.git"
+  },
+  "author": "techfreek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techfreek/gulp-ipfs/issues"
+  },
+  "homepage": "https://github.com/techfreek/gulp-ipfs",
+  "dependencies": {
+    "ipfs-api": "^1.1.0"
+  }
+}
